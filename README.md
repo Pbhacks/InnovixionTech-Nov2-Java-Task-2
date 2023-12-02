@@ -1,7 +1,7 @@
 # InnovixionTech
 Innovixion internship task 02 by; Priyant
 
-![Alt text](https://github.com/Pbhacks/InnovixionTech-Nov2-Java-Task-1/blob/main/1.png)
+![Alt text](https://github.com/Pbhacks/InnovixionTech-Nov2-Java-Task-2/blob/main/1.png)
  
  USER MANUAL
 -------------
